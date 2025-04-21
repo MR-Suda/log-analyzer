@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 
 # PYTHON FUNDAMENTALS | PROJECT: LOG ANALYZER
-# Student Name: Sudakov Shimon
+# Student Name: Shimon
 # Program Code: XE103
 # Class Code: RTX
-# Lecturer: Shiffman David
+# Lecturer: 
 
 import os
 import sys
